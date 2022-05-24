@@ -18,7 +18,6 @@ body {
     flex-wrap: wrap;
     flex-direction: column;
     justify-content:space-around;
-  
   }
   /*Order the item*/
   .emoji h2 {
