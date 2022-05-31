@@ -24,7 +24,6 @@ body {
     margin: 0;
     border-bottom: 2px solid #ccc;
     order: 0;
-  
   }
    /*Order and align the item*/
   .emoji a {
@@ -35,6 +34,7 @@ body {
     border-radius: 8px;
     order: 3;
     align-self: stretch;
+    margin-top: auto;
   }
    /*Order and align the item*/
   .icon {
